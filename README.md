@@ -89,7 +89,7 @@ The computer uses a **Minimax algorithm** to determine its moves.
 
 There are **8 difficulty levels**, which control the depth of the search tree and therefore the strength of the computer.
 
-## UI
+## User Interface
 
 - Playable sub-boards are marked red.
 - Hovering over a field previews your X or O and marks the sub-boards which become playable in the next turn by light-red.
