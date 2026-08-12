@@ -65,8 +65,8 @@ Choose between:
 
 When playing with a human player, choose between:
 
-- **Normal Mode** — The entire board is visible at any time.
-- **Memory Mode** — Only the currently active sub-board and the sub-board containing the previous move are visible.
+- **Normal Mode:** The entire board is visible at any time.
+- **Memory Mode:** Only the currently active sub-board and the sub-board containing the previous move are visible.
 
 Memory Mode adds an additional challenge by requiring players to remember the state of the hidden boards.
 
