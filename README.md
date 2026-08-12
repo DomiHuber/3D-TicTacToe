@@ -4,7 +4,7 @@ A strategic extension of the classic TicTacToe game, implemented in Python with 
 
 Instead of playing on one 3×3 board, **each of the 9 fields contains another 3×3 TicTacToe board**. Your move determines where your opponent has to play next. Select your move wisely to win the main board!
 
-## 🎮 How to Play
+## How to Play
 
 The game consists of a **main board** containing 9 smaller TicTacToe boards.
 
@@ -30,7 +30,7 @@ The game consists of a **main board** containing 9 smaller TicTacToe boards.
   </tr>
 </table>
 
-### 🔀 What if the next sub-board is already won?
+### What if the next sub-board is already won?
 
 Two rule variants can be selected before starting:
 
@@ -50,7 +50,7 @@ Two rule variants can be selected before starting:
   </tr>
 </table>
 
-## 🕹️ Game Modes
+## Game Modes
 
 ### Players
 
@@ -83,13 +83,13 @@ Memory Mode adds an additional challenge by requiring players to remember the st
   </tr>
 </table>
 
-### 🤖 Computer Difficulty
+### Computer Difficulty
 
 The computer uses a **Minimax algorithm** to determine its moves.
 
 There are **8 difficulty levels**, which control the depth of the search tree and therefore the strength of the computer.
 
-## 🖥️ UI
+## UI
 
 - Playable sub-boards are marked red.
 - Hovering over a field previews your X or O and marks the sub-boards which become playable in the next turn by light-red.
