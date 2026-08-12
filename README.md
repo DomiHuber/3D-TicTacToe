@@ -2,7 +2,7 @@
 
 A strategic extension of the classic TicTacToe game, implemented in Python with Pygame.
 
-Instead of playing on one 3×3 board, **each of the 9 fields contains another 3×3 TicTacToe board**. Your move determines where your opponent has to play next. Select your move wisely to win one the main board!
+Instead of playing on one 3×3 board, **each of the 9 fields contains another 3×3 TicTacToe board**. Your move determines where your opponent has to play next. Select your move wisely to win the main board!
 
 ## 🎮 How to Play
 
