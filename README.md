@@ -107,10 +107,3 @@ There are **8 difficulty levels**, which control the depth of the search tree an
     </td>
   </tr>
 </table>
-
-## 💡 What I Learned
-
-- Designing a new game based on the classic TicTacToe concept
-- Building an interactive game UI with **Pygame**
-- Implementing a **Minimax algorithm** for computer-controlled players
-- Designing different game modes and rule variants
