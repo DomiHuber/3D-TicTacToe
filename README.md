@@ -34,8 +34,8 @@ The game consists of a **main board** containing 9 smaller TicTacToe boards.
 
 Two rule variants can be selected before starting:
 
-- **Remain in Square** — Stay in the current active sub-board if your move would direct the opponent to an already won board. If that move also wins the current sub-board, the next player can choose any remaining sub-board.
-- **Free Choice** — If your move directs the opponent to an already won sub-board, they can freely choose any remaining sub-board.
+- **Remain in Square:** Stay in the current active sub-board if your move would direct the opponent to an already won board. If that move also wins the current sub-board, the next player can choose any remaining sub-board.
+- **Free Choice:** If your move directs the opponent to an already won sub-board, they can freely choose any remaining sub-board.
 
 <table>
   <tr>
